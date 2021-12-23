@@ -9,8 +9,8 @@ You are tasked with creating a machine learning model based on the Ames Housing 
 ---
 ## Project Files
 This project used 2 provided datasets:
-1. [Training Dataset](https://)
-2. [Test Dataset](https://)
+1. [Training Dataset](https://github.com/larafares/AmesHousingAnalysis/blob/main/datasets/train.csv)
+2. [Test Dataset](https://github.com/larafares/AmesHousingAnalysis/blob/main/datasets/test.csv)
 
 Initially, I assumed the best predictions would come from a simple model using features that are highly correlated with the Sale Price. However, I quickly learned that almost every variable played a small role in the determining the Sale Price.
 
